@@ -1,6 +1,6 @@
 {
   "name": "exif-manager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Wrapper around exiftool",
   "main": "index.js",
   "os": [

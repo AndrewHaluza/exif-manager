@@ -19,7 +19,6 @@ const ExifTool = require('exif-manager');
  * @param {string} path Absolute path to file
  * @param {object} data Data object to modify
  * @param {array} [flags] Flags parameters
- * @param {string} path Absolute path to file
  */
 const setExample = await ExifTool.set('/dir/image.png', { artist: "Ryan R." });
 ```

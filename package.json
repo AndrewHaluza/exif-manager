@@ -1,0 +1,32 @@
+{
+  "name": "exif-manager",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "os": [
+    "linux"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewHaluza/node-exiftool.git"
+  },
+  "keywords": [
+    "exiftool",
+    "image",
+    "metadata",
+    "exif",
+    "iptc"
+  ],
+  "author": "Andrew Haluza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewHaluza/node-exiftool/issues"
+  },
+  "dependencies": {
+    "exiftool":"exiftool/exiftool"
+  },
+  "homepage": "https://github.com/AndrewHaluza/node-exiftool#readme"
+}

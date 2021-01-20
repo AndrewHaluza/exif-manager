@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndrewHaluza/node-exiftool.git"
+    "url": "git+https://github.com/AndrewHaluza/exif-manager.git"
   },
   "keywords": [
     "exiftool",
@@ -23,7 +23,7 @@
   "author": "Andrew Haluza",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AndrewHaluza/node-exiftool/issues"
+    "url": "https://github.com/AndrewHaluza/exif-manager/issues"
   },
-  "homepage": "https://github.com/AndrewHaluza/node-exiftool#readme"
+  "homepage": "https://github.com/AndrewHaluza/exif-manager#readme"
 }

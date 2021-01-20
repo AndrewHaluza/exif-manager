@@ -1,7 +1,7 @@
 {
   "name": "exif-manager",
   "version": "0.0.1",
-  "description": "",
+  "description": "Wrapper around exiftool",
   "main": "index.js",
   "os": [
     "linux"
@@ -24,9 +24,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AndrewHaluza/node-exiftool/issues"
-  },
-  "dependencies": {
-    "exiftool":"exiftool/exiftool"
   },
   "homepage": "https://github.com/AndrewHaluza/node-exiftool#readme"
 }
